@@ -1,0 +1,27 @@
+============================================================
+FLEXIMART ETL DATA QUALITY REPORT
+============================================================
+Generated on: 2024-01-15 10:30:00
+
+Table: CUSTOMERS
+------------------------------------------------------------
+  Total records read:        20
+  Duplicates removed:        2
+  Missing values handled:    2
+  Records loaded successfully: 16
+
+Table: PRODUCTS
+------------------------------------------------------------
+  Total records read:        15
+  Duplicates removed:        0
+  Missing values handled:    3
+  Records loaded successfully: 12
+
+Table: SALES
+------------------------------------------------------------
+  Total records read:        35
+  Duplicates removed:        2
+  Missing values handled:    5
+  Records loaded successfully: 28
+
+============================================================
